@@ -1,0 +1,114 @@
+.logo{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.nav{
+    background-color: white;
+    padding-bottom: 10px;
+    color: black;
+}
+
+.text{
+    font: sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+body{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+p{
+    font-family: roboto;
+}
+
+.card{
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+
+footer{
+    padding-top:30px;
+    padding-bottom: 30px;
+   
+}
+
+.image{
+    padding-top: 20px;
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+a:active{
+    color: red;
+}
+
+.btn{
+    background: red;
+    padding: 10px;
+    border-color: white;
+}
+.btn:hover{
+    color: white;
+    background-color: red;
+    padding:10px;
+    border-color: white;
+    text-decoration: underline;
+}
+
+
+a:visited{
+    color:black;
+}
+
+@font-face{
+    font-family: Roboto;
+    src: url(Roboto.ttf);
+}
+
+.bullets{
+    font-size: 20px;
+    padding-left: 40px;
+}
+
+.row{
+    padding-left: 60px;
+}
+.col-sm-9{
+    padding-left: 70px;
+}
+
+#respond {
+  margin-top: 40px;
+}
+
+#respond input[type='text'],
+#respond input[type='email'], 
+#respond textarea {
+  margin-bottom: 10px;
+  display: block;
+  width: 100%;
+
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -khtml-border-radius: 5px;
+  border-radius: 5px;
+
+  line-height: 1.4em;
+}
+
+.row2{
+    border: solid;
+
+}
