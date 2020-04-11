@@ -112,3 +112,6 @@ a:visited{
     border: solid;
 
 }
+.checked {
+  color: orange;
+}
